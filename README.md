@@ -31,5 +31,6 @@ We will need these dependencies:
  - hibernate-validator  v.5.4.1.Final
  - mysql-connector-java v.5.1.4
  
-!!!You need to be careful with the versions. Some are not compatible/Нужно быть внимательным с версиями. Некоторые не совместимы 
+!!!You need to be careful with the versions. Some are not compatible
+   /Нужно быть внимательным с версиями. Некоторые не совместимы 
 </pre>
