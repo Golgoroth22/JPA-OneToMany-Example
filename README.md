@@ -23,6 +23,8 @@ CREATE TABLE `Items` (
   CONSTRAINT `items_ibfk_1` FOREIGN KEY (`cart_id`) REFERENCES `Cart` (`cart_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
 </pre>
+<p>Получим базу данных с такой структурой и свьзью</p>
+![m_qw53tp-50](https://user-images.githubusercontent.com/20084739/27132362-6e2ca262-5130-11e7-8860-c2e30a5a79d6.jpg)
 
 <h3>2. Create Maven Project and add depensenses in pom.xml/Создаем проект под управлением Maven и добавляем зависмости</h3>
 <pre>
